@@ -25,11 +25,11 @@
 </p>
 
 <p align="center">
-  <img alt="Saltyaom's GitHub stats" src=https://github-readme-stats.vercel.app/api?username=saltyaom&theme=default)](https://github.com/anuraghazra/github-readme-stats />
+  <img alt="Saltyaom's GitHub stats" src=https://github-readme-stats.vercel.app/api?username=mohammed-bageri&theme=dark)](https://github.com/anuraghazra/github-readme-stats />
   
 </p>
 
 <p align="center">
-  <img alt="Top Langs" src=https://github-readme-stats.vercel.app/api/top-langs/?username=saltyaom&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats />
+  <img alt="Top Langs" src=https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-bageri&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats />
 </p>
 
