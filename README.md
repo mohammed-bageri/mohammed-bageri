@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed-bageri&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-bageri" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammed-bageri" alt="mohammed-bageri" /></a> </p>
 
 - 🔭 I’m currently working on **multiple projects**
 
