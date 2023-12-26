@@ -22,9 +22,8 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-bageri&show_icons=true&locale=en&layout=compact" alt="mohammed-bageri" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammed-bageri&show_icons=true&locale=en" alt="mohammed-bageri" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-bageri&" alt="mohammed-bageri" /></p>
+<p align=center>
+  <img alt="Saltyaom's GitHub stats" src=https://github-readme-stats.vercel.app/api?username=saltyaom&theme=default)](https://github.com/anuraghazra/github-readme-stats />
+  <img alt="Top Langs" src=https://github-readme-stats.vercel.app/api/top-langs/?username=saltyaom&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats />
+</p>
 
