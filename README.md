@@ -16,13 +16,13 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align=center>
+<p align=left>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,cs,cpp,c,html,css,python,nodejs,dotnet,expressjs,nestjs,angular,react,nextjs,vue,nuxtjs,electron,tailwind,prisma,vite,webpack,postgresql,mongodb,mysql,redis,linux,nginx,docker,cloudflare,aws,gcp" />
   </a>
 </p>
 
-<p align=center>
+<p align=left>
   <img alt="Saltyaom's GitHub stats" src=https://github-readme-stats.vercel.app/api?username=saltyaom&theme=default)](https://github.com/anuraghazra/github-readme-stats />
   <img alt="Top Langs" src=https://github-readme-stats.vercel.app/api/top-langs/?username=saltyaom&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats />
 </p>
