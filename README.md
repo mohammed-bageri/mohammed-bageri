@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&pause=1000&color=grey&width=600&height=70&lines=Welcome-to-my-profile)](https://git.io/typing-svg)
-<h3 align="center">A passionate self thought full stack developer and devops enginer</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=A+passionate+self+thought+full+stack+developer+and+devops+enginer)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed-bageri&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-bageri" /> </p>
 
