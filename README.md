@@ -8,7 +8,10 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 💬 Ask me about **ReactJS, ExpressJS, NestJS, NextJS**
+- 💬 I’m a Full Stack NodeJS Developer, I Develop Web App, Desktop App, and Mobile App using NodeJS
+
+- 🌱 My favorite Dev Quote:
+` Any application that can be written in JavaScript, will eventually be written in JavaScript. `
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
