@@ -23,7 +23,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align=left>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,cs,html,css,python,nodejs,dotnet,expressjs,nestjs,angular,react,nextjs,vue,nuxtjs,electron,tailwind,prisma,vite,webpack,postgresql,mongodb,mysql,redis,linux,nginx,docker,cloudflare,aws,gcp" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,cs,html,css,nodejs,dotnet,expressjs,nestjs,angular,react,nextjs,remix,vue,nuxtjs,electron,tailwind,prisma,vite,webpack,postgresql,mongodb,mysql,redis,linux,nginx,docker,cloudflare,aws,gcp" />
   </a>
 </p>
 
