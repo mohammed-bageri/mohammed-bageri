@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 💬 I’m a Full Stack NodeJS Developer, I Develop Web App, Desktop App, and Mobile App using NodeJS
+- 💬 I’m a Full Stack NodeJS Developer, I Develop Web App, Desktop App, and Mobile App using NodeJS, Rails, or Laravel
 
 - 🌱 My favorite Dev Quote:
 ` Any application that can be written in JavaScript, will eventually be written in JavaScript. `
